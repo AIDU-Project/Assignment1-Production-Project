@@ -1,6 +1,8 @@
-BÀI TẬP TUẦN NÀY (08/02 - 15/02):
-Từ notebook training Random Forest
+BÀI TẬP TUẦN NÀY (08/02 - 15/02): <br>
+Từ notebook training Random Forest <br>
 Format lại thành: source follow theo quy trình production level (buổi học tuần này), đảm bảo chuẩn cấu trúc và serving API để call model và trả lại kết quả , sau đó upload github (branch riêng, follow conventional commit)
+
+Yêu cầu 1: tự tạo một branch mới, KHÔNG COMMIT VÀO MAIN BRANCH.
 
 Có thể format lại theo structure mẫu như sau: <br>
 project-root/ <br>
