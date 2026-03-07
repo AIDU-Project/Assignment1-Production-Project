@@ -1,0 +1,9 @@
+{
+  "model_file": "models\\rf_rebound_density.joblib",
+  "features": [
+    "rebound_signal"
+  ],
+  "target": "rock_density",
+  "random_state": 42,
+  "cv_best_score_rmse": 0.14552110041176958
+}
